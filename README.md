@@ -9,3 +9,4 @@
     }];
     [self.view addSubview:inputBox];
 ```
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/16301241/185619340-2439cd7b-10b9-4033-ba71-354eda02f760.png">
